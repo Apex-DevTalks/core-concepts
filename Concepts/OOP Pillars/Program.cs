@@ -1,4 +1,4 @@
-class OOP_Pillars
+public class OOP_Pillars
 {
     public interface IPrintable
     {
